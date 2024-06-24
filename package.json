@@ -8,6 +8,9 @@
     "start": "node dist/index.js",
     "dev": "nodemon src/index.ts"
   },
+   "engines": {
+    "node": "18.14.2"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
